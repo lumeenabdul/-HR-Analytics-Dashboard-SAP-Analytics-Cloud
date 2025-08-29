@@ -1,7 +1,7 @@
-# -HR-Analytics-Dashboard-SAP-Analytics-Cloud
+# HR-Analytics-Dashboard-SAP-Analytics-Cloud
 This project demonstrates how SAP Analytics Cloud (SAC) can be used to analyze workforce data and provide actionable insights into HR operations, employee distribution, attrition, and performance trends. The dashboards are built using mock data for demonstration purposes.
 
-🔹 Page 1: Executive Overview
+## 🔹 Page 1: Executive Overview
 
 <img width="1903" height="784" alt="sac_img1" src="https://github.com/user-attachments/assets/22f1fd50-bf87-4bc1-945d-45911d8bb807" />
 
@@ -47,7 +47,7 @@ Average Tenure: 8 years
 
 * Balanced department sizes, with Operations slightly higher.
 
-  🔹 Page 2: Workforce Attrition & Performance Insights
+  ## 🔹 Page 2: Workforce Attrition & Performance Insights
 
   <img width="1892" height="734" alt="sac_img2" src="https://github.com/user-attachments/assets/dfc219ab-10b8-47dd-8dbd-246f0d9c9189" />
   
